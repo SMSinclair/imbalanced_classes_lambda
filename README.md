@@ -2,12 +2,13 @@
 
 # 2 minute summary
 - Classification is when you are trying to classify elements of a set. When there are two groups, it's binary classification. 
-- There are issues when the event really rare, for example: fraud, cancer, device failure
-
+- If the event is really rare, there can be problems in building a machine learning model. 
+- Common examples include fraud, cancer, and device failure
+- We should be concerned about how we evaluate our model and how we construct our training data. 
 
 This repository is organized into the following sections:
 
-1. What are imbalanced classes?
+1. What are highly imbalanced classes?
 
 2. Why is it a problem with classification?
 
