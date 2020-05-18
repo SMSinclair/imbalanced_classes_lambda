@@ -8,22 +8,11 @@
 
 This repository is organized into the following sections:
 
+This repository is organized into the following sections:
 1. What are highly imbalanced classes?
-
-2. Why is it a problem with classification?
-
-3. Performance metrics
-
-4. Balanced Random Forest
-
-5. Dataset resampling
-
-6. Emsembling + Oversampling
-
-7. XGBoost
-
-8. SVM, KNN - Anomaly detection
-
+2. Performance metrics
+3. Sampling strategies to get more balanced data
+4. Additional considerations
 
 
 
